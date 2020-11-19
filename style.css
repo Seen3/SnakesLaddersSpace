@@ -1,8 +1,13 @@
 body{
     background-color: aqua;
 }
+#board{
+    width: 60%;
+    height: 70%;
+}
 .block{
     width: 100px;
+    display: inline-block;
     height: 100px;
     background-color: red;
     margin: 10px;
